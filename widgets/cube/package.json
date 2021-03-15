@@ -1,0 +1,27 @@
+{
+  "author": "VoFa+ Offical Team",
+  "cover": "cover.png",
+  "version": "0.3.5+",
+  "previews": [
+    {
+      "type": "video",
+      "url": "player.bilibili.com/player.html?aid=970195159&bvid=BV1tp4y1672d&cid=251507621&page=1",
+      "url_type": "iframe"
+    },
+    {
+      "type": "picture",
+      "url": "pictures/cover.png",
+      "url_type": "relative"
+    }
+  ],
+  "files": [
+    {
+      "type": "tgz",
+      "description": "适用于Linux、MacOs平台"
+    },
+    {
+      "type": "exe",
+      "description": "适用于Windows平台"
+    }
+  ]
+}
